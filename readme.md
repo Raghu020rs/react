@@ -8,7 +8,7 @@ react@16.0 + redux@3.7.2 + react-router@3.2.0 + webpack@3.10.0 + axios@0.18.0 + 
 
 ## Project introduce
 
-
+# Adnan 
 ```
 git clone --depth 1 https://github.com/duxianwei520/react.git  
 
